@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: selfie-cropped.jpg
+avatar_image: Chase-square-headshot.jpg
 bio: 
 #btn:
 #- label: Download CV
