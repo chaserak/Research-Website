@@ -24,11 +24,3 @@ summary:
 tags:
 title: Predator complementarity dampens variability of phytoplankton biomass in a diversity-stability trophic cascade
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}

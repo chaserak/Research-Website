@@ -22,11 +22,3 @@ summary:
 tags:
 title: Herbivores control effects of algal species richness on community biomass and stability in a laboratory microcosm experiment
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}

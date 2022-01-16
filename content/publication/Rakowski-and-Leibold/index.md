@@ -22,11 +22,3 @@ summary:
 tags:
 title: "Beyond the fish-Daphnia paradigm: testing the potential for Neoplea striola (Hemiptera: Pleidae) to cause a trophic cascade in subtropical ponds"
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}

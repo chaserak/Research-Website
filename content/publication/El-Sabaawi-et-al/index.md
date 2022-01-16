@@ -29,11 +29,3 @@ summary:
 tags:
 title: Intraspecific phenotypic differences in fish affect ecosystem processes as much as bottom–up factors
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
