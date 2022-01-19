@@ -10,7 +10,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/Chase_Rak
 slides: 
-summary: I am testing methods for biological zooplankton control using multiple predators in algae cultivation ponds. The goal is to improve the reliability of phytoplankton cultivation for environmental technologies by reducing the impacts of zooplankton in a cheap and environmentally friendly manner.
+summary: I am testing methods for biological zooplankton control using multiple predators in algae cultivation ponds. The goal is to improve the reliability of phytoplankton cultivation for environmental technologies by reducing the impacts of zooplankton in a budget- and environmentally-friendly manner.
 tags:
 share: false
 title: Applications to algae cultivation
