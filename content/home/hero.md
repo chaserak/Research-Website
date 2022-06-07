@@ -42,6 +42,7 @@ hero_media = "Chase-at-NM-creek-square.JPEG"
   label = "Contact me"
 
 +++
-## I'm **Chase Rakowski**, a PhD candidate studying **aquatic ecology**.
+## **Chase Rakowski**
+PhD candidate studying **aquatic ecology**
 
 I research how changes in biodiversity and species interactions can directly and indirectly affect the stability of key ecosystem functions.
